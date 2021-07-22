@@ -1,16 +1,15 @@
-### Hi there 👋
+### Alex Auvolat -- distributed systems and stuff
 
-<!--
-**Alexis211/Alexis211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Currently working on [Garage](https://garagehq.deuxfleurs.fr/) and [other Deuxfleurs stuff](https://git.deuxfleurs.fr/Deuxfleurs), as well as finishing my PhD thesis.
 
-Here are some ideas to get you started:
+🌱 Generally interested in learning about operating systems, distributed computing and programming paradigms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 We're always looking for new collaborators on the [Deuxfleurs project](https://deuxfleurs.fr) (see our [infrastructure repo](https://git.deuxfleurs.fr/Deuxfleurs/infrastructure) for technical stuff in English)
+
+💬 Contact me if you are interested in Deuxfleurs or other stuff I do
+
+📫 All of my contact information can be found on my [homepage](https://adnab.me)
+
+😄 Pronouns: he/him
+
+⚡ Fun fact: I like trains!
