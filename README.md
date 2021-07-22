@@ -4,7 +4,7 @@
 
 🌱 Generally interested in learning about operating systems, distributed computing and programming paradigms.
 
-👯 We're always looking for new collaborators on the [Deuxfleurs project](https://deuxfleurs.fr) (see our [infrastructure repo](https://git.deuxfleurs.fr/Deuxfleurs/infrastructure) for technical stuff in English)
+👯 We're always looking for new collaborators on the [Deuxfleurs self-hosting project](https://deuxfleurs.fr) (see our [infrastructure repo](https://git.deuxfleurs.fr/Deuxfleurs/infrastructure) for technical stuff in English)
 
 💬 Contact me if you are interested in Deuxfleurs or other stuff I do
 
