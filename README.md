@@ -12,4 +12,4 @@
 
 😄 Pronouns: he/him
 
-⚡ Fun fact: I like trains!
+⚡ Fun fact: most of my code is now hosted on the [Deuxfleurs gitea](https://git.deuxfleurs.fr) or on my [personnal website](https://adnab.me/cgit/)
