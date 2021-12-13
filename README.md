@@ -1,6 +1,6 @@
 ### Alex Auvolat -- distributed systems and stuff
 
-🔭 Currently working on [Garage](https://garagehq.deuxfleurs.fr/) and [other Deuxfleurs stuff](https://git.deuxfleurs.fr/Deuxfleurs), as well as finishing my PhD thesis.
+🔭 Currently working on [Garage](https://garagehq.deuxfleurs.fr/) and [other Deuxfleurs stuff](https://git.deuxfleurs.fr/Deuxfleurs).
 
 🌱 Generally interested in learning about operating systems, distributed computing and programming paradigms.
 
