@@ -8,7 +8,7 @@
 
 💬 Contact me if you are interested in Deuxfleurs or other stuff I do
 
-📫 All of my contact information can be found on my [homepage](https://adnab.me)
+📫 All of my contact information can be found on my [homepage](https://adnab.me) (just verifying my <a rel="me" href="https://mamot.fr/@lx">mastodon</a> account)
 
 😄 Pronouns: he/him
 
