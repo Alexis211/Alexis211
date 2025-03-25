@@ -12,4 +12,4 @@
 
 😄 Pronouns: he/him
 
-⚡ Fun fact: most of my code is now hosted on the [Deuxfleurs gitea](https://git.deuxfleurs.fr/lx/) or on my [personal website](https://adnab.me/cgit/)
+⚡ Fun fact: most of my code is now hosted on the [Deuxfleurs gitea](https://git.deuxfleurs.fr/lx/) or on my [personal website](https://git.adnab.me/)
